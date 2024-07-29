@@ -16,7 +16,7 @@ header {
     width: 100%;
     background: linear-gradient(135deg, #0096FF, #00D7FF, #0096FF);
     color: #fff;
-    padding: 0.5em 0;
+    padding: 0.5em 1em;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -24,6 +24,7 @@ header {
     z-index: 1000;
 }
 
+/* Navbar Styles */
 nav {
     display: flex;
     justify-content: space-between;
@@ -32,6 +33,7 @@ nav {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 1em;
+    box-sizing: border-box;
 }
 
 .navbar-brand {
@@ -51,7 +53,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0 1em;
+    margin: 0 0.5em;
 }
 
 nav ul li a {
@@ -76,6 +78,31 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+/* Responsive Container */
+.container {
+    width: 100%;
+    padding: 0 1em;
+    box-sizing: border-box;
+}
+
+@media (min-width: 576px) {
+    .container {
+        padding: 0 2em;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        padding: 0 3em;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding: 0 4em;
+    }
 }
 
 h1 {
