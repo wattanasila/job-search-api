@@ -1,7 +1,7 @@
 # job-search-api
 **Job Search Website**
 
-Web Live here : **https://jobandjoin.onrender.com**
+Web Live here : https://jobandjoin.onrender.com
 
 **Overview**
 This project is a web application developed using Express/Node.js that integrates with the Adzuna API to retrieve job listings. The application allows users to search for jobs based on location and other available filters, view job ads, and manage their own job postings within the application. Axios is used for making HTTP requests to the Adzuna API, and EJS is used for rendering dynamic content.
