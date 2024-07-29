@@ -47,7 +47,7 @@ Delete Job: /delete-job/:id - Remove a locally stored job posting.
 Errors are managed both for the application and API requests, ensuring users receive meaningful error messages when issues arise.
 
 **Documentation**
-The code includes comments explaining key functionality and logic. For more details on API endpoints and data formats, refer to the **Adzuna API documentation**.
+The code includes comments explaining key functionality and logic. For more details on API endpoints and data formats, refer to the Adzuna API documentation.
 <img width="931" alt="Screenshot 2024-07-29 162021" src="https://github.com/user-attachments/assets/aaa52784-cae5-4cc6-b21a-3091706c02b5">
 
 <img width="932" alt="Screenshot 2024-07-29 161944" src="https://github.com/user-attachments/assets/f6e4f77d-d1f4-482a-9e3c-9d580535b98a">
