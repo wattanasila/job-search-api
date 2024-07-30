@@ -48,10 +48,11 @@ Errors are managed both for the application and API requests, ensuring users rec
 
 **Documentation**
 The code includes comments explaining key functionality and logic. For more details on API endpoints and data formats, refer to the Adzuna API documentation.
-<img width="931" alt="Screenshot 2024-07-29 162021" src="https://github.com/user-attachments/assets/aaa52784-cae5-4cc6-b21a-3091706c02b5">
+
+<img width="926" alt="Screenshot 2024-07-29 161916" src="https://github.com/user-attachments/assets/1990524e-4cd5-41d4-8d15-3fd1b54679fd">
 
 <img width="932" alt="Screenshot 2024-07-29 161944" src="https://github.com/user-attachments/assets/f6e4f77d-d1f4-482a-9e3c-9d580535b98a">
 
-<img width="926" alt="Screenshot 2024-07-29 161916" src="https://github.com/user-attachments/assets/1990524e-4cd5-41d4-8d15-3fd1b54679fd">
+<img width="931" alt="Screenshot 2024-07-29 162021" src="https://github.com/user-attachments/assets/aaa52784-cae5-4cc6-b21a-3091706c02b5">
 
 
