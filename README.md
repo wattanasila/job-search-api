@@ -27,6 +27,8 @@ The project integrates with the Adzuna API to provide job listings and employmen
 - Job Listings: Retrieve job advertisements based on location and available filters.
 - Employment Data: Access valuable insights, such as trends in salaries and job vacancies, for user reference.
 
+**Note:** Due to the Adzuna API's limitations, users cannot search for jobs by job title. However, users can still search by location and filter by other available criteria. Locally created job postings, however, are fully searchable, including by title.
+
 **How to Use**
 1. Setup
    Clone the repository to your local machine.
