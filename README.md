@@ -29,25 +29,20 @@ The project integrates with the Adzuna API to provide job listings and employmen
 
 **How to Use**
 1. Setup
-Clone the repository to your local machine.
-Run the following command to install dependencies:
-npm install
+   Clone the repository to your local machine.
+   Run the following command to install dependencies:
+   npm install
 
 2. Configuration
-
-Replace the placeholder API credentials in app.js with your own Adzuna API credentials (app_id and app_key).
+   Replace the placeholder API credentials in app.js with your own Adzuna API credentials (app_id and app_key).
 
 3. Run
-
-Start the server with:
-npm start
+   Start the server with:
+   npm start
 
 4. Access
-
-Open your browser and navigate to:
-http://localhost:3000
-
-
+   Open your browser and navigate to:
+   http://localhost:3000
 
 **Code Overview**
 Project Structure
