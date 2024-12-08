@@ -87,11 +87,11 @@ The application ensures robust error handling to deliver clear feedback to users
 The code is well-documented with in-line comments to explain key logic, API requests, and core functions.
 For more detailed information on API endpoints and response formats, refer to the official Adzuna API documentation.
 
-<img width="959" alt="Screenshot 2024-12-08 151010" src="https://github.com/user-attachments/assets/9573f7c3-4bac-4853-9472-24c912640024">
-
 <img width="955" alt="Screenshot 2024-12-08 150906" src="https://github.com/user-attachments/assets/990719ca-88b0-436c-9035-f199a956ee91">
 
 <img width="960" alt="Screenshot 2024-12-08 150944" src="https://github.com/user-attachments/assets/c6693cf1-ace2-4d28-b34c-88df8bb6175b">
+
+<img width="959" alt="Screenshot 2024-12-08 151010" src="https://github.com/user-attachments/assets/9573f7c3-4bac-4853-9472-24c912640024">
 
 
 
